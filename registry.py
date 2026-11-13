@@ -1,6 +1,3 @@
-# Elenco dei paesi: per aggiungerne uno, aggiungi una riga qui e (se vuoi dati automatici)
-# crea collectors/<codice minuscolo>.py con una funzione collect().
-# region: europe | asia | americas | oceania | africa
 COUNTRIES = [
  # code, slug, region, nome IT, nome EN, ente fonte, url fonte
  ("AT","austria","europe","Austria","Austria","Statistik Austria","https://www.statistik.at/statistiken/tourismus-und-verkehr/fahrzeuge/kfz-neuzulassungen"),
