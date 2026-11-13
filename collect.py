@@ -1,4 +1,3 @@
-
 """Lancia tutti i collector in collectors/ e aggiorna data/data.json."""
 import importlib, json, pathlib, traceback
 from registry import COUNTRIES
